@@ -1,1 +1,3 @@
 console.version
+console.version
+console
